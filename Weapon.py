@@ -1,11 +1,11 @@
 #This function picks a weapon.
 def choose_weapon(weapon):
     if weapon == "sword":
-        print("You equip a sword!")
+        print("You have equiped a sword!")
     elif weapon == "bow":
-        print("You equip a bow!")
+        print("You have equiped a bow!")
     elif weapon == "staff":
-        print("You equip a staff!")
+        print("You have equiped a staff!")
     else:
         print("That is not a valid weapon!")
 
